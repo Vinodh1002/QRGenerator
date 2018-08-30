@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRGenerator</string>
+    <string name="type_here">Type here</string>
+    <string name="generate">Generate</string>
+    <string name="contents">Contents</string>
+    <string name="size_px_includes_the_margin_width_equals_to_height">Size (px, includes the margin, width equals to height)</string>
+    <string name="margin_px">Margin (px)</string>
+    <string name="data_dot_scale_0_lt_scale_lt_1_0f"><![CDATA[Data dot scale (0 < scale < 1.0f)]]></string>
+    <string name="automatically_pick_color_from_background_image">Automatically pick color from background image</string>
+</resources>
